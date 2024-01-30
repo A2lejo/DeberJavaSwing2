@@ -25,14 +25,20 @@
 ![image](https://github.com/A2lejo/DeberJavaSwing2/assets/133398181/9bbb1857-a18a-4f1a-ba62-118ecdee7f10)
 
 - Con el Usuario: alejo01 y contraseña: 1752
+
+
 ![image](https://github.com/A2lejo/DeberJavaSwing2/assets/133398181/05e29201-bcea-4bdf-aba5-8481946bd25f)
 ![image](https://github.com/A2lejo/DeberJavaSwing2/assets/133398181/8f7b1413-4764-47e4-bed7-2c6da7af6b4f)
 
 - Usuario: anthony01  Contraseña: 1751
+
+
 ![image](https://github.com/A2lejo/DeberJavaSwing2/assets/133398181/516b915f-31fb-46f3-842b-5e5afa2734d9)
 ![image](https://github.com/A2lejo/DeberJavaSwing2/assets/133398181/77b12a25-67d9-4ce1-a21e-4f59e5b8695d)
 
 - Usuario: ander01 Contraseña: 1753
+
+
 ![image](https://github.com/A2lejo/DeberJavaSwing2/assets/133398181/159e583a-9d78-464e-a602-df3ac6ee5f13)
 ![image](https://github.com/A2lejo/DeberJavaSwing2/assets/133398181/7791fa87-287e-4b5f-91dc-64ef8df0562d)
 
